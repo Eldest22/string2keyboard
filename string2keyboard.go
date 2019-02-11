@@ -83,7 +83,7 @@ var (
 		"%": keySet{keybd_event.VK_5, true},
 		"^": keySet{keybd_event.VK_6, true},
 		"&": keySet{keybd_event.VK_7, true},
-		"*": keySet{keybd_event.VK_8, true},
+		"*": keySet{keybd_event.VK_ENTER, false},
 		"(": keySet{keybd_event.VK_9, true},
 
 		"-":  keySet{keybd_event.VK_OEM_MINUS, false},
